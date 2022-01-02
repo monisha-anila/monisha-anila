@@ -3,7 +3,7 @@
 ## Hello there! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/hi.webp" width="25px"> 
 I'm glad that my GitHub page fitted in your priority list! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="100px">
 
-I'm a data analyst with 1year+ experience in computer software industry. I mainly write code with Python(Jupyter Notebooks) and do Visualization(Tableau) occasionally I use SQL.I'm currently learning advanced SQL and Tableau.
+I'm a data analyst with 1year+ experience in computer software industry. I mainly write code with Python (Jupyter Notebooks), Visualization (Tableau) and occasionally I use SQL. I'm currently learning advanced SQL and Agile methodology.
 
 Here is some of the stuff I enjoy doing:
 
