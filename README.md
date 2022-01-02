@@ -1,6 +1,7 @@
 <img src="https://github.com/monisha-anila/monisha-anila/blob/main/Cheers.png" width="100%" align="center"/></a>
 
-## I'm glad that my GitHub page fitted in your priority list! <img src="https://media3.giphy.com/media/3o8dFChfP80VOYSriE/giphy.gif" width="100px">
+## Hello there! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/hi.webp" width="25px"> 
+I'm glad that my GitHub page fitted in your priority list! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="100px">
 
 I'm a data analyst with 1year+ experience in computer software industry. I mainly write code with Python(Jupyter Notebooks) and do Visualization(Tableau) occasionally I use SQL and currently I am learning advanced SQL and Tableau.
 
@@ -14,6 +15,7 @@ Here is some of the stuff I enjoy doing:
 🔗 &nbsp;**I am also on:**
 <p align="left">
 <a href="https://www.linkedin.com/in/monisha-anila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monisha-anila" height="30" width="40" /></a>
+<a href="https://public.tableau.com/profile/monisha.anila" target="blank"><img align="center" src="https://github.com/monisha-anila/monisha-anila/blob/main/tableau-software.svg" alt="monisha-anila" height="30" width="40" /></a>  
 
 ## Main projects
 I wish I knew these concepts earlier:
