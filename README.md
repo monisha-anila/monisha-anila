@@ -9,8 +9,8 @@ Here is some of the stuff I enjoy doing:
 
 * Create data pipelines using API and AWS services
 * Data Visualization 
-* Bayesian statistics 
-* Machine Learning
+* Applied statistics 
+* Applied Machine Learning
 
 🔗 &nbsp;**I am also on:**
 <p align="left">
