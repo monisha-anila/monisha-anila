@@ -1,11 +1,13 @@
-<img src="https://github.com/monisha-anila/monisha-anila/blob/main/Cheers.png" width="100%" align="center"/></a>
+<img src="https://github.com/monisha-anila/monisha-anila/blob/main/ML_joke.jpeg" height = "500px" width="1500px" align="centre"/></a>
 
-## Hello there! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/hi.webp" width="25px"> 
-I'm glad that my GitHub page fitted in your priority list! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="50px">
+## Hello there! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/hi.webp" width="50px"> 
+*When someone views your GitHub profile!* <img src="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="100px">
 
-I'm a Business analyst with 1.5year+ combined experience in Market Research and computer software industry. I mainly write code with Python (Jupyter Notebooks), Visualization (Tableau) and occasionally I use SQL. Currently, I'm learning advanced SQL and Agile methodology.
+<b>*I'm Monisha. I'm a Senior Analyst with 1.8 years of experience in Market Research and Software industry. Currently, I work at Kantar to help FMCG clients to take better investment decisions. I graduated with my bachelor's degree from VIT University.</b>*
 
-Here is some of the stuff I enjoy doing:
+<b>*Main Analytics tools*</b>: *Excel, Python, Tableau and SQL.* *(Less used: AWS, R, Power BI and Data Studio)*
+
+## Here is some of the stuff I enjoy doing:
 
 * Create data pipelines using API and AWS services
 * Data Visualization 
@@ -18,7 +20,7 @@ Here is some of the stuff I enjoy doing:
 <a href="https://public.tableau.com/profile/monisha.anila" target="blank"><img align="center" src="https://github.com/monisha-anila/monisha-anila/blob/main/tableau-software.svg" alt="monisha-anila" height="30" width="40" /></a>  
 
 ## Main projects
-I wish I knew these concepts earlier:
+<b>*I wish I knew these concepts earlier:*</b>
 <p align="left">
   <a href="https://github.com/monisha-anila/Tuning-Learning-rate"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=monisha-anila&repo=Tuning-Learning-rate&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" alt="MachineLearning"></a>
   <a href="https://github.com/monisha-anila/Data-Analyst-hacks"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=monisha-anila&repo=Data-Analyst-hacks&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" alt="DataAnalyst"></a>
