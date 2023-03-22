@@ -3,7 +3,7 @@
 ## Hello there! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/hi.webp" width="50px"> 
 *When someone views your GitHub profile!* <img src="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="100px">
 
-<b>*I'm Monisha. I'm a Senior Analyst with 1.8 years of experience in Market Research and Software industry. Currently, I work at Kantar to help FMCG clients to take better investment decisions. I graduated with my bachelor's degree from VIT University.</b>*
+<b>*I'm Monisha. I'm a Senior Analyst with 2 years of experience in Market Research and Software industry.I graduated with my bachelor's degree from VIT University.</b>*
 
 <b>*Main Analytics tools*</b>: *Excel, Python, Tableau and SQL.* *(Less used: AWS, R, Power BI and Data Studio)*
 
