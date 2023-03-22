@@ -29,7 +29,7 @@
 </p>
 
 
-#<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=monisha-#anila&hide=java,html,tex&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&langs_count=4)" alt="monisha-anila" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=monisha-anila&hide=java,html,tex&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&langs_count=4)" alt="monisha-anila" />
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=monisha-anila&show_icons=true&theme=radical)" alt="monisha-anila" />
 
