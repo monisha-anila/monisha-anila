@@ -1,4 +1,4 @@
-<img src="https://github.com/monisha-anila/monisha-anila/blob/main/ML_joke.jpeg" height = "350px" width="1000px" align="centre"/></a>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5fsu6_nY7V3eCy_OnsCwUg.png" height = "350px" width="1000px" align="centre"/></a>
 
 ## Hello there! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/hi.webp" width="50px"> 
 *When someone views your GitHub profile!* <img src="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="100px">
