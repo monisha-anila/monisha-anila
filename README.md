@@ -1,11 +1,11 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5fsu6_nY7V3eCy_OnsCwUg.png" height = "350px" width="1000px" align="centre"/></a>
+<img src="https://media.licdn.com/dms/image/C5622AQFJ521PFF72zA/feedshare-shrink_2048_1536/0/1676027745133?e=1682553600&v=beta&t=ijR8O9wPqh_A_6UqJtE9BG5luo2050WA81qEARcW4Rg" height = "350px" width="1000px" align="centre"/></a>
 
 ## Hello there! <img src="https://github.com/monisha-anila/monisha-anila/blob/main/hi.webp" width="50px"> 
 *When someone views your GitHub profile!* <img src="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="100px">
 
-<b>*I'm Monisha. I'm a Senior Analyst with 2 years of experience in Market Research and Software industry.I graduated with my bachelor's degree from VIT University.</b>*
+- <b>*I'm Monisha, a Senior Analyst with 2 years of experience in Market Research and the Software industry. I graduated with my bachelor's degree from VIT University</b>*
 
-<b>*Main Analytics tools*</b>: *Excel, Python, Tableau and SQL.* *(Less used: AWS, R, Power BI and Data Studio)*
+- <b>*My main analytics tools are Excel, Python, Tableau, and SQL. I also have experience with AWS, R, Power BI, and Data Studio, although I use them less frequently*
 
 ## Here is some of the stuff I enjoy doing:
 
