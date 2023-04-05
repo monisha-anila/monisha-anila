@@ -1,8 +1,8 @@
 <img src="https://media.licdn.com/dms/image/C5622AQFJ521PFF72zA/feedshare-shrink_2048_1536/0/1676027745133?e=1682553600&v=beta&t=ijR8O9wPqh_A_6UqJtE9BG5luo2050WA81qEARcW4Rg" height = "350px" width="1000px" align="centre"/></a>
 
-*When you get the count of <img align='center' src="https://komarev.com/ghpvc/?username=monisha-anila"> on your GitHub profile!* <img src ="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="70px">
+#### *When you get the count of <img align='center' src="https://komarev.com/ghpvc/?username=monisha-anila"> on your GitHub profile!* <img src ="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="70px">
  
-- *👋 I'm Monisha, a Senior Analyst with 2+ years of experience in market research and the software industry. I graduated with my bachelor's degree from VIT University*.
+### *👋 I'm Monisha, a Senior Analyst with 2+ years of experience in market research and the software industry. I graduated with my bachelor's degree from VIT University*.
 
 ### *My analytics toolkit*:
 *  Programming - *Python and SQL*
