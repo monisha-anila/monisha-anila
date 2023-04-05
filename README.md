@@ -10,9 +10,7 @@
 *  Cloud Services - *AWS*
 *  Media Services - *Google Analytics and Oracle Eloqua*
 *  Customer Services - *Salesforce*
---------
-### *You can find me doing analytics by*:
-#### *Creating data pipelines using API and AWS, Data Visualization, Applied Statistics and Applied Machine Learning*
+#### *I use these tools for creating data pipelines using API and AWS, Data Visualization, Applied Statistics and Applied Machine Learning*
 ---------
 ### Main projects
 <b>*I wish I knew these concepts earlier:*</b>
