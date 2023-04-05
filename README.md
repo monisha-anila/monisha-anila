@@ -2,7 +2,7 @@
 
 *When you get the count of <img align='center' src="https://komarev.com/ghpvc/?username=monisha-anila"> on your GitHub profile!* <img src ="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="70px">
  
-- *I'm Monisha, a Senior Analyst with 2 years of experience in market research and the software industry. I graduated with my bachelor's degree from VIT University*.
+- *👋 I'm Monisha, a Senior Analyst with 2 years of experience in market research and the software industry. I graduated with my bachelor's degree from VIT University*.
 
 ### *My analytics toolkit*:
 *  Programming - *Python and SQL*
@@ -12,7 +12,7 @@
 *  Customer Services - *Salesforce*
 --------
 ### *You can find me doing analytics by*:
-##### *Creating data pipelines using API and AWS, Data Visualization, Applied Statistics and Applied Machine Learning*
+#### *Creating data pipelines using API and AWS, Data Visualization, Applied Statistics and Applied Machine Learning*
 ---------
 ### Main projects
 <b>*I wish I knew these concepts earlier:*</b>
