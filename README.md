@@ -32,4 +32,4 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=monisha-anila&show_icons=true&hide=java,html,tex&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&langs_count=4)" alt="monisha-anila" />
 
-*🙋‍♀️ <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=monisha-anila.visitor-badge"> You can also find me on:<a href="https://linkedin.com/in/monisha-anila"><img align ='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25px"></a> and* 
+*🙋‍♀️ <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=monisha-anila.visitor-badge"> You can also find me on:<a href="https://linkedin.com/in/monisha-anila"><img align ='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25px"></a> and <a href="https://public.tableau.com/app/profile/monisha.anila"> <img align ='center' src="https://github.com/monisha-anila/monisha-anila/blob/main/tableau-software.svg" width ="25px"></a>* 
