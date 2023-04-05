@@ -12,15 +12,15 @@
 *  Cloud Services - <img align = 'center' src="https://user-images.githubusercontent.com/41122221/229998956-4da192f5-1269-4dfd-8593-60680a1bd9e1.gif" width="75px">
 *  Media Services - <img align = 'center' src="https://wemanageweb.co.uk/wp-content/uploads/2017/04/google-analytics-logo.png" width="90px"> and <img align ='center' src="https://www.drupal.org/files/project-images/download_13_0.png" width="70px">
 *  Customer Services - <img align ="center" src="https://user-images.githubusercontent.com/41122221/230003170-4ce87a0e-df67-4d83-adfc-2ef461c497f9.gif" width="70px">
----
-### I talk about data science topics mostly analytics and I enjoy doing:
------
+
+
+### *You can find me doing analytics by*:
 * Creating data pipelines using API and AWS
 * Data Visualization 
 * Applied Statistics 
 * Applied Machine Learning
 
-## Main projects
+### Main projects
 <b>*I wish I knew these concepts earlier:*</b>
 <p align="left">
   <a href="https://github.com/monisha-anila/Tuning-Learning-rate"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=monisha-anila&repo=Tuning-Learning-rate&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" alt="MachineLearning"></a>
@@ -32,4 +32,4 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=monisha-anila&show_icons=true&hide=java,html,tex&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&langs_count=4)" alt="monisha-anila" />
 
-🙋‍♀️ <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=monisha-anila.visitor-badge"> You can find me on: <img align="center" src="https://public.tableau.com/app/profile/monisha.anila" alt="monisha-anila" height="30" width="40"> and <img align="center" src="https://linkedin.com/in/monisha-anila" alt="monisha-anila" height="30" width="40"> 
+*🙋‍♀️ <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=monisha-anila.visitor-badge"> You can also find me on:<a href="https://linkedin.com/in/monisha-anila"><img align ='center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25px"></a> and* 
