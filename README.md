@@ -2,7 +2,7 @@
 
 #### *When you get the count of <img align='center' src="https://komarev.com/ghpvc/?username=monisha-anila"> on your GitHub profile!* <img src ="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="70px">
  
-### *👋 I'm Monisha, a Senior Analyst with 2+ years of experience in market research and the software industry. I graduated with my bachelor's degree from VIT University*.
+### *👋 I'm Monisha, a Services Consultant with 2+ years of experience in market research and the software industry. I graduated with my bachelor's degree from VIT University*.
 
 ### *My analytics toolkit*:
 *  Programming - *Python and SQL*
@@ -21,7 +21,10 @@
   <a href="https://github.com/monisha-anila/Object-detection-"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=monisha-anila&repo=Object-detection-&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" alt="NeuralNetworks"></a>
 </p>
 
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=monisha-anila&show_icons=true&hide=java,html,tex&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&langs_count=4)" alt="monisha-anila" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monisha-anila" />
+</a> <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monisha-anila&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### *🙋‍♀️ You can also find me on: <a href="https://linkedin.com/in/monisha-anila"><img align ='center' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" width="30px"></a> and <a href="https://public.tableau.com/app/profile/monisha.anila"> <img align ='center' src="https://github.com/monisha-anila/monisha-anila/blob/main/tableau-software.svg" width ="30px"></a>* 
