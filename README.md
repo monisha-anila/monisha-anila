@@ -22,9 +22,9 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=monisha-anila" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=monisha-anila&rank_icon=percentile&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" />
 </a> <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monisha-anila&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monisha-anila&layout=compact&langs_count=8&card_width=120&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" />
 </a>
 
 ### *🙋‍♀️ You can also find me on: <a href="https://linkedin.com/in/monisha-anila"><img align ='center' src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" width="30px"></a> and <a href="https://public.tableau.com/app/profile/monisha.anila"> <img align ='center' src="https://github.com/monisha-anila/monisha-anila/blob/main/tableau-software.svg" width ="30px"></a>* 
