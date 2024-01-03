@@ -22,7 +22,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=monisha-anila&rank_icon=percentile&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=monisha-anila&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" />
 </a> <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monisha-anila&layout=compact&langs_count=8&card_width=120&theme=react&bg_color=181b24&title_color=F8D866&icon_color=24a0ed&hide_border=true&show_icons=false" />
 </a>
