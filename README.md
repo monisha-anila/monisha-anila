@@ -2,15 +2,13 @@
 
 #### *When you get the count of <img align='center' src="https://komarev.com/ghpvc/?username=monisha-anila"> on your GitHub profile!* <img src ="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="70px">
  
-### *👋 I'm Monisha, a Consultant with nearly 3 years of experience in market research and the software industry. I graduated with my bachelor's degree from VIT University*.
+### *👋 I'm Monisha, a consultant with close to 4 years of experience in the software industry. I graduated with my bachelor's degree from VIT University.*.
 
 ### *My analytics toolkit*:
-*  Programming - *Python and SQL*
-*  BI Reporting and visualization - *Tableau and Excel*
-*  Cloud Services - *AWS*
-*  Media Services - *Google Analytics and Oracle Eloqua*
-*  Customer Services - *Salesforce*
-#### *I use these tools for creating data pipelines using API and AWS, Data Visualization, Applied Statistics and Applied Machine Learning*
+Analytics tools I use in my daily activities :
+* Intermediate level : Excel, Python, SQL and Tableau
+* Beginner level : AWS
+#### *I get excited about opportunities where I'm able to leverage better data usage to discover insights in building dashboards and machine learning models.*
 ---------
 ### Main projects
 <b>*I wish I knew these concepts earlier:*</b>
