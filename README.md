@@ -2,7 +2,7 @@
 
 #### *When you get the count of <img align='center' src="https://komarev.com/ghpvc/?username=monisha-anila"> on your GitHub profile!* <img src ="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="70px">
  
-### *👋 I'm Monisha, a consultant with close to 4 years of experience in the software industry. I graduated with my bachelor's degree from VIT University.*.
+### *👋 I'm Monisha, a consultant with close to 4 years of experience in the software industry. I graduated with my bachelor's degree from VIT University.*
 
 ### *My analytics toolkit*:
 Analytics tools I use in my daily activities :
