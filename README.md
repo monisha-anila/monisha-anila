@@ -4,11 +4,15 @@
  
 ### *👋 I'm Monisha, a consultant with close to 4 years of experience in the software industry. I graduated with my bachelor's degree from VIT University.*
 
-### *My analytics toolkit*:
-Analytics tools I use in my daily activities :
-* Intermediate level : Excel, Python, SQL and Tableau
-* Beginner level : AWS
-#### *I get excited about opportunities where I'm able to leverage better data usage to discover insights in building dashboards and machine learning models.*
+### *Experience in using below tools in my day-to-day activities*:
+- ⚙️ Business process : Order Management, Accounts Receivable, Procurement and Accounts Payable
+- 💾 ERP systems : SAP ECC, SAP S4 HANA and SAP ARIBA 
+- 🚀 Process Mining : Celonis
+- 📊 BI and reporting : Excel and Tableau
+- 👩‍💻 Programming : Python and SQL
+- ☁️ Cloud computing : AWS
+
+#### *I get excited about opportunities where I'm able to leverage better data usage to discover insights in building data pipelines, dashboards and machine learning models.*
 ---------
 ### Main projects
 <b>*I wish I knew these concepts earlier:*</b>
