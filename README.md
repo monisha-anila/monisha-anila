@@ -5,15 +5,12 @@
 ### *👋 I'm Monisha, a senior consultant with 4+ years of experience in the software industry. I hold a bachelor’s degree from VIT University and have expertise in building data pipelines, interactive dashboards and machine learning models.*
 
 ### Domain and analytical tools : 
-- 🎞️ Business Processes: Order to Cash (O2C),Procure to Pay (P2P) and Quality Management (QM)
-- ⚙️ ERP Systems: SAP ECC, SAP S/4HANA, and SAP Ariba
-- ⚡️Excel : VLOOKUP, SUMIFS, IFERROR, Pivot table, Charts - Combo, Dual, Waterfall and Histograms
-- 💎 SQL : Data manipulation - Joins, Case, String and date functions,Window functions, CTEs , 
-- 📊 Tableau : Joins Vs Relationships, Rank, Table calcs , LoDs, Sets, Parameters, Charts and performance optimisation
-- 🐍 Python : Numpy, Pandas, Scikit-learn, Seaborn
-- 🎁 API wrapper : Aha, Salesforce, Boto3, Github
-- ☁️ AWS : IAM, S3, Glue, Redshift, QuickSight, SNS
-- 🤖 Machine learning : Linear, Logistic, XG-Boost, LGB and SVM
+- Process : O2C, P2P, QM
+- Source systems : SAP ECC, S4HANA, Ariba, Salesforce
+- Spread sheets : Excel
+- Programming : Python, SQL
+- BI reporting : Tableau
+- Cloud Computing : AWS
 
 #### *Outside of work, I enjoy playing badminton. I’m always excited to discuss opportunities that allow me to uncover insights that drive better decisions.*
 ---------
