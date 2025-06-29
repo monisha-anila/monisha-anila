@@ -2,7 +2,7 @@
 
 #### *When you get the count of <img align='center' src="https://komarev.com/ghpvc/?username=monisha-anila"> on your GitHub profile!* <img src ="https://github.com/monisha-anila/monisha-anila/blob/main/giphy.webp" width="70px">
  
-### *👋 I'm Monisha, a senior consultant with 4.5+ years of experience in the software industry. I hold a bachelor’s degree from VIT University and have expertise in building data pipelines, interactive dashboards and machine learning models.*
+### *👋 I'm Monisha, a Senior Services Consultant with 4.5+ years of experience in the software industry. I hold a bachelor’s degree from VIT University and have expertise in building data pipelines, interactive dashboards and machine learning models.*
 
 ### Domain and analytical tools : 
 - Process : O2C, P2P, QM
